@@ -1,0 +1,29 @@
+*{
+    margin:0px;
+}
+
+.parent{
+    height: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.parent2{
+    height: 200px;
+
+}
+.one{
+    height: 100px;
+    width: 15%;
+    background-color: red;
+}
+
+.two{
+    height: 100px;
+    width: 20%;
+    background-color: blue;
+    display: inline-block;
+    margin-left:4%;
+    margin-top:50px;
+}
